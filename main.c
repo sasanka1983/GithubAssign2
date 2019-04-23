@@ -10,6 +10,10 @@ feature1()
   //Sample Code for Feature 1
 }
 
+featureExtension()
+{
+  //Sample Code for Feature 1
+}
 
 
 }
